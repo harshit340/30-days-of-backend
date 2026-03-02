@@ -1,0 +1,20 @@
+{
+  "name": "day_1_healthapi",
+  "version": "1.0.0",
+  "description": "day_1_backend",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
